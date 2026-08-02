@@ -1,0 +1,104 @@
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\GravityCalculations.exe.config
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\GravityCalculations.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\obj\Debug\GravityCalculations.csproj.AssemblyReference.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\obj\Debug\GravityCalculations.csproj.CoreCompileInputs.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\obj\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\obj\Debug\GravityCalculations.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\cosmology-tools.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\global-helpers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\cosmology-tools.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\global-helpers.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\obj\Debug\GravityCalculations.csproj.CopyComplete
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\CsvHelper.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Buffers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Memory.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.ValueTuple.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\CsvHelper.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Buffers.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Memory.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\dxf.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\dxf.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\MathNet.Numerics.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\MathNet.Numerics.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity\GravityCalculations\bin\Debug\MathNet.Numerics.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\GravityCalculations.exe.config
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\GravityCalculations.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\cosmology-tools.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\CsvHelper.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\dxf.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\global-helpers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Buffers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Memory.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.ValueTuple.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\MathNet.Numerics.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\cosmology-tools.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\dxf.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\global-helpers.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\CsvHelper.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Buffers.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Memory.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\MathNet.Numerics.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\bin\Debug\MathNet.Numerics.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\obj\Debug\GravityCalculations.csproj.AssemblyReference.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\obj\Debug\GravityCalculations.csproj.CoreCompileInputs.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\obj\Debug\GravityCalculations.csproj.CopyComplete
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\obj\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_old\GravityCalculations\obj\Debug\GravityCalculations.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\GravityCalculations.exe.config
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\GravityCalculations.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\cosmology-tools.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\CsvHelper.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\dxf.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\global-helpers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Buffers.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Memory.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.ValueTuple.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\MathNet.Numerics.dll
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\cosmology-tools.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\dxf.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\global-helpers.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\CsvHelper.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Buffers.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Memory.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\MathNet.Numerics.pdb
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\bin\Debug\MathNet.Numerics.xml
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\obj\Debug\GravityCalculations.csproj.AssemblyReference.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\obj\Debug\GravityCalculations.csproj.CoreCompileInputs.cache
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\obj\Debug\GravityCalculations.csproj.CopyComplete
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\obj\Debug\GravityCalculations.exe
+C:\PROJECTS\PHYSICS\Weinberg Paper Gravity_original\GravityCalculations\obj\Debug\GravityCalculations.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\GravityCalculations.exe.config
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\GravityCalculations.exe
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\GravityCalculations.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\cosmology-tools.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\CsvHelper.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\dxf.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\global-helpers.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Buffers.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Memory.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.ValueTuple.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\MathNet.Numerics.dll
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\cosmology-tools.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\dxf.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\global-helpers.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\CsvHelper.xml
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Buffers.xml
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Memory.xml
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\MathNet.Numerics.pdb
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\bin\Debug\MathNet.Numerics.xml
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\obj\Debug\GravityCalculations.csproj.AssemblyReference.cache
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\obj\Debug\GravityCalculations.csproj.CoreCompileInputs.cache
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\obj\Debug\GravityCalculations.csproj.CopyComplete
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\obj\Debug\GravityCalculations.exe
+C:\PROJECTS\SOFTWARE\modified-gravity-simulation\gravity-calculations\obj\Debug\GravityCalculations.pdb

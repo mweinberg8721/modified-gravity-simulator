@@ -1,0 +1,25 @@
+Carina, 101 ± 5 kpc
+Draco, 76 ± 5 kpc
+Fornax, 138 ± 8 kpc
+Leo I, 250 ± 30 kpc
+Leo II, 205 ± 12 kpc
+Sculptor, 79 ± 4 kpc
+Sextans, 86 ± 4 kpc
+Ursa Minor, 66 ± 3 kpc
+Bo¨otes I, 66 ± 3 kpc
+Canes Ven. I, 218 ± 10 kpc
+Canes Ven. II, 160 ± 4 kpc
+Coma Ber, 45 ± 4 kpc
+Hercules, 132 ± 12 kpc
+Leo IV, 160 ± 15 kpc
+Leo T, 407 ± 38 kpc
+Segue 1, 28 ± 2 kpc
+Ursa Major I, 97 ± 4 kpc
+Ursa Major II, 36 ± 5 kpc
+Willman 1, 43 ± 7 kpc
+And I, 57 ± 24 kpc
+And II, 194 ± 18 kpc
+And III, 75 ± 24 kpc
+And VII, 215 ± 35 kpc
+And X, 109 ± 37 kpc
+And XIV, 186 ± 87 kpc
